@@ -1,8 +1,8 @@
 ### Olá! Eu Sou Lucas Maciel  ✌
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmaciel404/)
-
+<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmaciel404&show_icons=true&theme=transparent)
-
+</center>
 
 <div style='display: inline_block;'></br> 
   <p>Tecnologias Utilizadas:</p>
