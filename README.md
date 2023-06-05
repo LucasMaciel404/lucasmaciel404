@@ -12,4 +12,7 @@
   <img align='left' alt='php' src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white'/>
   <img align='left' alt='sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
 <?div>
-<a href ="https://alura-books-livid-eta.vercel.app/">aaaaa<a>
+<h1> Meus projetos online: </h1>
+<a href ="https://alura-books-livid-eta.vercel.app/">Alura Books<a>
+<a href ="https://lista-de-tarefas-lake-iota.vercel.app/">Lista de Tarefas<a>
+<a href ="https://acerte-o-numero-iota.vercel.app/">Acerte um Numero<a>
