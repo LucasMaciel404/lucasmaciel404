@@ -1,8 +1,12 @@
-### Olá! Eu Sou Lucas Maciel  ✌
+# Olá! Eu Sou Lucas Maciel  ✌
+
+<img src="https://66.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif" width="100px"/>
+##Você pode me encontrar nas minhas redes sociais:
+<div style="display: inline_block;">
+
+</div>
+
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmaciel404/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmaciel404&show_icons=true&theme=transparent)
-
 
 <div style='display: inline_block;'></br> 
   <p>Tecnologias Utilizadas:</p>
