@@ -15,8 +15,8 @@
 ## Você pode me encontrar em minhas redes sociais:
 
 <div style='display: inline_block;'>
-  <a href="google.com.br"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-  <a href="google.com.br"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.instagram.com/lucasmaciel404/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/lucas-maciel-75188823b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <?div> </br>
 <h1> Meus projetos online: </h1></br>
 <a href ="https://alura-books-livid-eta.vercel.app/">Alura Books<a></br>
