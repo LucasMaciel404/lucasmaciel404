@@ -1,15 +1,15 @@
 # Olá! Eu sou Dev FullStack em JavaScript  ✌
 
-<img align="center" src="https://66.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif" width="100px"/>
-
+<img align="left" src="https://66.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif" width="100px" style="padding: 0 100px;"/>
 
  ## Tecnologias Utilizadas:
 <div style='display: inline_block;'></br> 
-  <img align='left' alt='js' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' href=""/>
+  <img align='left' alt='js' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
   <img align='left' alt='css' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
-  <img align='left' alt='html5' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
-  <img align='left' alt='php' src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white'/>
-  <img align='left' alt='sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
+  <img alt='html5' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/> <br/>
+  <img align='left' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img align='left' alt='node.js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
+  <img alt='sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/><br/>
 <?div> </br>
 
 ## Você pode me encontrar em minhas redes sociais:
