@@ -1,4 +1,4 @@
-# Olá! Eu sou Dev FullStack em JavaScript  ✌
+# Olá! Eu sou um FullStack em JavaScript  ✌
 
 <img align="left" src="https://66.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif" width="100px" style="padding: 0 100px;"/>
 
