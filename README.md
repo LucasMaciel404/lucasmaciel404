@@ -1,6 +1,6 @@
 
  
-# Olá! Eu sou um FullStack em JavaScript  ✌
+# Olá! Seja bem-vindo a meu perfil do GitHube. <br> Sou um Dev-FullStack em JavaScript  ✌
 
 <p align="center" >
    <img align="center" src="https://static-00.iconduck.com/assets.00/black-hole-emoji-2048x2048-vi1ueafh.png" width="100px"/>
