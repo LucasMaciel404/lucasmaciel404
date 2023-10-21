@@ -21,10 +21,7 @@
 
 <div style='display: inline_block;' align="center">
 
-### Meus projetos online: 
-   <a align='left' href ="https://alura-books-livid-eta.vercel.app/">Alura Books |<a>
-   <a align='left' href ="https://lista-de-tarefas-lake-iota.vercel.app/">Lista de Tarefas |<a>
-   <a align='left' href ="https://acerte-o-numero-iota.vercel.app/">Acerte um Numero<a>
+
 </div>
 </br>
 
