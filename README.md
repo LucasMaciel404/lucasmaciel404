@@ -1,34 +1,39 @@
 <h1> Olá! Seja bem-vindo ao meu perfil do GitHub. ✌ </h1>
 
 <p align="center">
-   <img align="center" src="https://static-00.iconduck.com/assets.00/black-hole-emoji-2048x2048-vi1ueafh.png" width="100px"/>
+   <img align="center" src="https://66.media.tumblr.com/a8b0cce817c98ca4794baabdd2097b36/tumblr_mjz2k70Sxt1rfjowdo1_540.gif" width="300px"/>
 </p>
 
 ## Tecnologias Utilizadas:
-
 <div align="center"> <!-- Adicionado align="center" para centralizar o conteúdo -->
-
-  <img alt='js' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
-  <img alt='css' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
-  <img alt='html5' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/> 
   <img alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img alt='type script' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img alt='styled component' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
+  <img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
+  <img alt='Jquery' src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'/>
+  
   <img alt='node js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
   <img alt='sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
-
+  <img alt='postgress' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
+  <img alt='sequelize' src='https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue'/>
+  <img alt ='mongo D B' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>   
 </div>
 
 </br>
 
-<div style='display: inline_block;' align="center">
-
-
-</div>
-</br>
-
-<div align="center">
-<div style='display: inline_block;'>
-  <a href="https://www.instagram.com/lucasmaciel404/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-  <a href="https://www.linkedin.com/in/lucas-maciel-75188823b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-</div>
+## Visite tambem:
+<div>
+   <a href='https://portifolio-pi-sable.vercel.app' target="_blank"> <img alt='Udemy' src='https://img.shields.io/badge/Portifólio-black?style=for-the-badge&logoColor=white'/> <a/>
+   <a href="https://www.instagram.com/lucasmaciel404/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+   <a href="https://www.linkedin.com/in/lucas-maciel-75188823b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </div>
 
+<br/>
+
+## Educação
+<div>
+   <img alt='Udemy' src='https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white'/>
+   <img alt='Alura' src='https://img.shields.io/badge/Alura-blue?style=for-the-badge&logoColor=white'/>
+   <img alt='Duolingo' src='https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white'/>
+   <img alt='' src=''/>
+</div>
