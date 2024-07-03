@@ -6,8 +6,6 @@
   <h2>Entre em contato:</h2>
   <br>
   <div>
-    <a href='https://portifolio-13odhmol9-lucasmaciel404s-projects.vercel.app/' target="_blank"> <img alt='Udemy'
-        src='https://img.shields.io/badge/Portifólio-black?style=for-the-badge&logoColor=white' /> <a />
       <a href="https://www.instagram.com/lucasmaciel404/"> <img
           src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
       <a href="https://www.linkedin.com/in/lucas-maciel-75188823b/"> <img
@@ -19,7 +17,6 @@
   <div>
     <img alt='node js'src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
     <img alt='mongo D B' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-    <br>
     <img alt='sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
     <img alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
     <img alt='sequelize' src='https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue' />
