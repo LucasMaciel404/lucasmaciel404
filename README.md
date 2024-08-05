@@ -1,16 +1,31 @@
-<div align="center" >
-  <h1> Olá! Eu Sou Lucas Maciel ✌ <br> Desenvolvedor Full Stack, procurando um dev? </h1>
-  <br>
-  <img src="https://cdn.mobygames.com/promos/621644-the-legend-of-zelda-the-minish-cap-other.png" width="300px" />
-  <br>
-  <h2>Entre em contato:</h2>
-  <br>
-  <div>
-      <a href="https://www.instagram.com/lucasmaciel404/"> <img
-          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-      <a href="https://www.linkedin.com/in/lucas-maciel-75188823b/"> <img
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-  </div>
+
+  <h1 align="center">Olá 👋, sou Lucas Maciel</h1>
+<h3 align="center">Um desenvolvedor full-stack apaixonado do Brasil</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+- 🔭 Atualmente estou trabalhando em [Digital Loja](https://github.com/Geracao-Tech-2024/Digital-Store.git)
+
+- 🌱 Atualmente estou aprendendo **Firebase**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui no githube
+
+- 💬 Pergunte-me sobre **React, Node, styled-componentes, sequilize, express.**
+
+- 📫 Como entrar em contato comigo **maciellucas487@gmail.com**
   <br>
     <h2>Principais tecnologias: </h2>
   <br>
@@ -28,6 +43,4 @@
     <img alt='Jquery' src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' />
     <img alt='postgress' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
   </div>
-  
- 
-</div>
+
