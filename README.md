@@ -1,6 +1,6 @@
 
   <h1 align="center">Olá 👋, sou Lucas Maciel</h1>
-<h3 align="center">Um desenvolvedor full-stack apaixonado do Brasil</h3>
+<h3 align="center">Um desenvolvedor full-stack do Brasil</h3>
 
 <picture>
   <source
