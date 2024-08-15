@@ -19,7 +19,7 @@
 
 - 🔭 Atualmente estou trabalhando em [Digital Loja](https://github.com/Geracao-Tech-2024/Digital-Store.git)
 
-- 🌱 Atualmente estou aprendendo **Firebase**
+- 🌱 Atualmente estou aprendendo **Cypress**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no githube
 
