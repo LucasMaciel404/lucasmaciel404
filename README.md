@@ -17,7 +17,7 @@
   />
 </picture>
 
-- 🔭 Atualmente estou trabalhando em [Digital Loja](https://github.com/Geracao-Tech-2024/Digital-Store.git)
+- 🔭 Atualmente estou trabalhando em [Barber](https://github.com/LucasMaciel404/barber.git) projeto privado
 
 - 🌱 Atualmente estou aprendendo **Cypress**
 
