@@ -19,13 +19,11 @@
 
 - 🔭 Atualmente estou trabalhando em [Barber](https://github.com/LucasMaciel404/barber.git) projeto privado
 
-- 🌱 Atualmente estou aprendendo **Cypress**
-
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no githube
 
-- 💬 Pergunte-me sobre **React, Node, styled-componentes, sequilize, express.**
+- 💬 Vamos conversar sobre **Banco de dados, automação de processo, empreendedorismo, Investimentos**
 
-- 📫 Como entrar em contato comigo **maciellucas487@gmail.com**
+- 📫 Como entrar em contato comigo **maciellucas487@gmail.com** , (85) 9 8104-1834
   <br>
     <h2>Principais tecnologias: </h2>
   <br>
