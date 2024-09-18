@@ -21,9 +21,9 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no githube
 
-- 💬 Vamos conversar sobre **Banco de dados, automação de processo, empreendedorismo, Investimentos**
+- 💬 Vamos conversar sobre **Banco de dados, cyber segurança, automação de processo, empreendedorismo e Investimentos**
 
-- 📫 Como entrar em contato comigo **maciellucas487@gmail.com** , (85) 9 8104-1834
+- 📫 Como entrar em contato comigo email: **maciellucas487@gmail.com** , WhatsApp: (85) 9 8104-1834
   <br>
     <h2>Principais tecnologias: </h2>
   <br>
