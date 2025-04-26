@@ -28,41 +28,21 @@ Em 2022, ingressei na **Sou Energy**, onde comecei oficialmente minha jornada co
 
 ## 📚 Tecnologias e Ferramentas que uso
 
-### **Back-end:**
-- **.NET**
-- **Entity Framework**
-- **NestJS**
-- **Node.js**
-- **MongoDB**
-- **PostgreSQL**
-- **SQL Server**
-
-### **Front-end:**
-- **React**
-- **React Native**
-- **HTML, CSS, JavaScript**
-- **TypeScript**
-- **JQuery**
-
-### **DevOps:**
-- **Git & GitHub**
-- **Linux**
-- **Azure**
-- **Render**
-- 
-### **Padrões de Projetos/Arquiteturas Conhecidos(as):**
-- **SOLID**
-- **MVC**
-
-### **Metodologias Ágeis:**
-- **SCRUM**
-- **KANBAN**
+| **Back-end** | **Front-end** | **DevOps** | **Padrões de Projeto/Arquiteturas** | **Metodologias Ágeis** |
+|:------------:|:-------------:|:----------:|:-----------------------------------:|:----------------------:|
+| .NET         | React          | Git & GitHub | SOLID                             | SCRUM                  |
+| Entity Framework | React Native | Linux     | MVC                               | KANBAN                 |
+| NestJS       | HTML, CSS, JavaScript | Azure |                                   |                        |
+| Node.js      | TypeScript     | Render     |                                   |                        |
+| MongoDB      | JQuery         |             |                                   |                        |
+| PostgreSQL   |                |             |                                   |                        |
+| SQL Server   |                |             |                                   |                        |
 
 ---
 
 ## 🚀 Projetos Atuais
 
-Atualmente, estou trabalhando em um projeto publico chamado [**Simples-Facil**](https://github.com/LucasMaciel404/Simples-Facil). Você pode acompanhar esse e outros projetos no meu GitHub.
+Atualmente, estou trabalhando em um projeto público chamado [**Simples-Facil**](https://github.com/LucasMaciel404/Simples-Facil). Você pode acompanhar esse e outros projetos no meu GitHub.
 
 ---
 
@@ -78,6 +58,8 @@ Estou sempre disposto a trocar ideias e aprender sobre:
 
 ---
 
+
+
 ## 📞 Como Entrar em Contato
 
 - **Email**: [lucasmaciel404.dev@gmail.com](mailto:lucasmaciel404.dev@gmail.com)
@@ -89,10 +71,9 @@ Estou sempre disposto a trocar ideias e aprender sobre:
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -106,13 +87,3 @@ Estou sempre disposto a trocar ideias e aprender sobre:
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
-
----
-
-## 📈 Meu GitHub
-
-Você pode conferir todos os meus projetos e contribuições no meu GitHub: [LucasMaciel404](https://github.com/LucasMaciel404)
-
----
-
-Espero que tenha gostado da minha jornada e se você quiser conversar sobre tecnologia, empreendedorismo ou qualquer outra coisa, não hesite em me procurar. Vamos trocar ideias! 🚀
